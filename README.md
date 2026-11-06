@@ -11,10 +11,10 @@ Než se pustíte do jakýchkoliv úprav, musíte zjistit, s čím vlastně máte
 - Hned všechno přepište od začátku Raději nic nemažte, dokud nevíte, co to dělá.
 
 ### Můj denní úkolovník
-[x] Vytvořit zálohu projektu
-[x] Zkontrolovat závislosti a verze balíčků
-[ ] Napsat chybějící testy
-[ ] Doufat, že to nespadne v produkci
+- [x] Vytvořit zálohu projektu
+- [x] Zkontrolovat závislosti a verze balíčků
+- [ ] Napsat chybějící testy
+- [ ] Doufat, že to nespadne v produkci
 
 
 ## 2. Užitečné nástroje a dokumentace
