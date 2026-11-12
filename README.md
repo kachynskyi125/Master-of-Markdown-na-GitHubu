@@ -8,7 +8,7 @@ Než se pustíte do jakýchkoliv úprav, musíte zjistit, s čím vlastně máte
 ### První kroky po otevření projektu
 - Prozkoumejte adresářovou strukturu repozitáře.
 - Podívejte se do souboru README.md (pokud vůbec existuje).
-- Hned všechno přepište od začátku Raději nic nemažte, dokud nevíte, co to dělá.
+- Raději nic nemažte, dokud nevíte, co to dělá.
 
 ### Můj denní úkolovník
 - [x] Vytvořit zálohu projektu
@@ -25,6 +25,7 @@ Zlaté pravidlo programátora: Pokud to funguje, tak na to raději nesahejte.
 ## 3. Ukázka kódu pro nouzovou situaci
 Někdy potřebujete rychle ověřit, zda server vůbec žije. Zde je jednoduchý skript v Pythonu, který vás zachrání:Pythonimport http.client
 
+```python
 def check_server(host):
     conn = http.client.HTTPConnection(host, timeout=5)
     try:
@@ -36,11 +37,14 @@ def check_server(host):
 
 if __name__ == "__main__":
     check_server("localhost")
-
+```
     
 ## 4. Porovnání přístupů k refaktoringu
 Následující tabulka porovnává dvě hlavní strategie při údržbě staršího softwaru:
-StrategieVýhodyNevýhodyInkrementální úpravyMenší riziko výpadku, průběžné testováníTrvá to delší dobuKompletní rewriteČistý kód, moderní technologieČasto se protáhne a vyrobí nové chyby
+Strategie | Výhody | Nevýhody | 
+| :--- | :---: | :---: |            
+**Inkrementální úpravy** | Menší riziko výpadku, průběžné testování | Trvá to delší dobu
+**Kompletní rewrite** | Čistý kód, moderní technologie | Často se protáhne a vyrobí nové chyby
 
 Vizualizace pracovní realityNásledující obrázek přesně vystihuje moment, kdy se snažíte pochopit logiku cizího kódu bez komentářů:
 A nezapomeňte – každý bug je jen skrytá featura!
