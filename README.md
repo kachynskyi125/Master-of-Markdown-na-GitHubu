@@ -48,4 +48,5 @@ Strategie | Výhody | Nevýhody |
 
 ### Vizualizace pracovní reality
 Následující obrázek přesně vystihuje moment, kdy se snažíte pochopit logiku cizího kódu bez komentářů:
+![code(images/img.jpg)]
 A nezapomeňte – každý bug je jen skrytá featura!
