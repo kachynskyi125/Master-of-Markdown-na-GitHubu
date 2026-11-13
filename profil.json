@@ -2,7 +2,8 @@
   "jmeno": "Anna Novakova",
   "vek": 17,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rad sportuji a studuji programovani",
+  "oblibene_cislo": 7,
   "adresa": {
     "mesto": "Praha",
     "psc": "11000"
