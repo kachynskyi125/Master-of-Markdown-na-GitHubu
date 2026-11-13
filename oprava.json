@@ -1,0 +1,11 @@
+{
+  'uzivatel': "Karel99",
+  "uroven": 15,
+  // kontrola stavu účtu
+  "aktivni": True,
+  "posledni_prihlaseni": 2026-11-12,
+  "odznaky": [
+    "průzkumník",
+    "veterán",
+  ]
+}
