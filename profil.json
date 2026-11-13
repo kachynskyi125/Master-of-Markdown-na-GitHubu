@@ -1,0 +1,15 @@
+{
+  "jmeno": "Anna Novakova",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "psc": "11000"
+  },
+  "konicky": [
+    "programovani",
+    "cteni knih",
+    "fotografovani"
+  ]
+}  
