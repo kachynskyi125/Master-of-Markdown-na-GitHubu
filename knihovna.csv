@@ -1,5 +1,5 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Babička,Božena Němcová,1855,ano
-2,R.U.R.,Karel Čapek,1920,ne
-3,"Hobit, aneb Cesta tam a zase zpátky",J.R.R. Tolkien,1937,ano
-4,1984,George Orwell,1949,ano
+id,nazev,autor,rok_vydani,dostupna,pocet_stran
+1,Babička,Božena Němcová,1855,ano,304
+2,R.U.R.,Karel Čapek,1920,ne,160
+3,"Hobit, aneb Cesta tam a zase zpátky",J.R.R. Tolkien,1937,ano,320
+4,1984,George Orwell,1949,ano,328
